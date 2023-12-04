@@ -1,0 +1,15 @@
+2.What are Html Entities? list out 5 commonly used Html Entities?
+ANS:-
+
+HTML character entities are used as a replacement of reserved characters in HTML.
+ You can also replace characters that are not present on your keyboard by entities.
+
+ List out 5 commonly used html entities:-
+
+Result	Description  	       Entity Name	 Entity Number
+ ©	     copyright               &copy;	        169
+ &	    ampersand	             &amp;	        38
+ €	     Euro	                 &euro;	       8364
+ ®	     registered trademark	 &reg;	        174
+ <	   less than	             &lt;	        60
+>	  greater than	             &gt;	        62
